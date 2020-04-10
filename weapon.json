@@ -1,111 +1,253 @@
-    [
+   [
         {
             "name": "流浪的騎士",
             "description":"沒有人能在我的BGM裡打敗我，艾爾文專屬武器。",
             "Rating": "SSR",
             "episode": 28,
-            "categorie":"槍|步|騎",
+            "categorie":" 槍 | 步 | 騎",
             "studio":"攻擊+2%，使用技能造成傷害時，30%概率使技能冷卻時間-5",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/a.jpg"
         },
         {
-            "name": "One Piece",
-            "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
-            "Rating": "8.54",
+            "name": "信仰的試煉",
+            "description": "勇氣與榮耀，一切為了女神的意志。雷丁專屬裝備。",
+            "Rating": "SSR",
             "episode": 700,
-             "categorie":"Animation | Drama | Adventure",
-            "studio":"Toei Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+             "categorie":" 劍 | 槍 | 僧",
+            "studio":"防禦、魔防+1%。擊殺敵軍後獲得效果“抵擋一次致命傷害，之後英雄生命值恢復到本次傷害之前的血量，該狀態持續期間最多觸發一次復活效果”，持續1回合。（該效果需要間隔2回合才能再次觸發）",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/b.jpg"
         },
         {
-            "name": "Attack on Titan",
-            "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
-            "Rating": "8.50",
+            "name": "女神的左手",
+            "description": "看到了女神，誰還走的動路呢？",
+            "Rating": "SSR",
             "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Wit Studio",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+            "categorie":" 法 | 僧 | 魔",
+            "studio":"治療效果+3%，主動進入戰鬥時，戰後有50%的概率，使敵軍“移動力”降低2格，持續1回合",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/c.jpg"
         },
         {
-            "name": "Monster",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
+            "name": "寄生樹",
+            "description": "小槲寄生樹的樹枝，藏著不可思議的力量。",
+            "Rating": "SSR",
             "episode": 70,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
+            "categorie":" 法 | 僧 | 魔",
+            "studio":"治療效果+3%，主動進入戰鬥時，戰後使敵軍“造成傷害”降低10%，持續1回合。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/d.jpg"
         },
         {
-            "name": "Death Note",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
+            "name": "亞斯塔祿",
+            "description": "大魔神的手杖，充滿黑暗之力。",
+            "Rating": "SSR",
             "episode": 500,
-            "categorie":"Animation | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+            "categorie":" 法 | 僧 | 魔",
+            "studio":"和有弱化效果的敵軍進入戰鬥時，智力提升3%，主動進入戰鬥時，戰後有15%概率使敵軍“暈眩”，持續1回合。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/e.jpg"
         },
         {
-            "name": "Violet Evergarden",
-            "description": "There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning.A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation.",
-            "Rating": "8.39",
+            "name": "奇蹟之杖",
+            "description": "非常華麗的手杖，希望它用起來也足夠華麗。 ",
+            "Rating": "SSR",
             "episode": 14,
-            "categorie":"Fantasy | Drama ",
-            "studio":"Kyoto Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+            "categorie":" 法 | 僧 | 魔",
+            "studio":"範圍技能傷害提升3%，主動造成傷害時，有15%概率使敵軍遭受一個強力弱化狀態。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/f.jpg"
         },
         {
-            "name": "Tokyo Ghoul",
-            "description": "",
-            "Rating": "8.01",
+            "name": "拉格納羅克",
+            "description": "諸神之黃昏，混亂的製造者，它的存在本身就帶來戰爭。",
+            "Rating": "SSR",
             "episode": 12,
-            "categorie":"Action | Mystery",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+            "categorie":" 槍 | 飛 | 水",
+            "studio":"攻擊+2%，主動進入戰鬥前，有50%對敵軍造成一次固定傷害，傷害值為英雄攻擊的1倍。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/g.jpg"
         },
         {
-            "name": "Black Clover",
-            "description": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the Wizard King—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
-            "Rating": "6.55",
+            "name": "真紅死神",
+            "description": "仇人的靈魂封入武器之中，這是吸血鬼氏族的複仇方式。 ",
+            "Rating": "SSR",
             "episode": 51,
-            "categorie":"Magic | Shounen | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+            "categorie":" 槍 | 飛 | 水",
+            "studio":"攻擊+2%。主動造成傷害前，若敵軍生命低於100%，則此次傷害提升1%，並在傷害後追加1次[固定傷害]，傷害值為英雄攻擊的0.5倍。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/h.jpg"
         },
         {
-            "name": "Sword Art Online",
-            "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
-            "Rating": "7.66",
+            "name": "冰霜之刃",
+            "description": " 可以砍人，也可以去暑，真棒！",
+            "Rating": "SSR",
             "episode": 25,
-            "categorie":"Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
+            "categorie":" 步 | 騎 ",
+            "studio":"攻擊+2%，主動進入戰鬥時，戰後有25%的概率使敵軍移動力降低2格，持續1回合。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/i.jpg"
         },
         {
-            "name": "Nanatsu no Taizai",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.30",
+            "name": "封印守護者",
+            "description": " 過於強大的力量會被封印，次之的則成為封印守護者 ",
+            "Rating": "SSR",
             "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+            "categorie":" 步 | 騎 ",
+            "studio":"攻擊+2%，防禦+1%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/j.jpg"
         },
         {
-            "name": "Kiseijuu: Sei no Kakuritsu",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.53",
+            "name": "詛咒之槍",
+            "description": " 傳說中它造成的傷口幾乎無法癒合。",
+            "Rating": "SSR",
             "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+            "categorie":"槍 | 騎 | 飛",
+            "studio":"主動進入戰鬥時，防禦提升3%，魔防提升3%，戰鬥後，有25%概率使敵軍無法使用主動技能，無法遭受治療，持續1回合。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/k.jpg"
         },
         {
-            "name": "Hunter x Hunter (2011)",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "9.11",
+            "name": "藍色惑星",
+            "description": " 由墜落在大陸的隕石打造，如流星般穿透敵人。 ",
+            "Rating": "SSR",
             "episode": 148,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+            "categorie":"槍 | 騎 | 飛",
+            "studio":"進入戰鬥前，每移動1格，攻擊、防禦、魔防各提升1%（最多提升至3%）。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/l.jpg"
         }
-
-    ]
+		        {
+            "name": "青龍之冑",
+            "description": " 天無絕境，永不放棄，輾轉反擊，一擊制敵！利昂專屬裝備。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"步 | 騎 ",
+            "studio":"防禦+2%。受到傷害後，獲得效果“移動不受地形限制”，持續1回合。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/m.jpg"
+        }
+        {
+            "name": "魔導防護服",
+            "description": " 採用了克里姆索科技的神秘服飾，能反射攻擊。蕾伽爾專屬裝備。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 法 | 僧 ",
+            "studio":"生命+1%。被近戰攻擊進入戰鬥前，對敵軍造成1次固定傷害，傷害值為英雄智力的1倍。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/n.jpg"
+        }
+		        {
+            "name": "最後之服",
+            "description": " 聽說質量很好一生買一件就夠了。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 飛 | 弓 | 水 | 刺",
+            "studio":"防禦+2%，部隊生命值100%時，遭受所有傷害降低40%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/o.jpg"
+        }
+        {
+            "name": "石像鬼外套",
+            "description": " 穿著這件外套站著不動的話，會被別人當成雕像。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 飛 | 弓 | 水 | 刺",
+            "studio":"生命+1%。被攻擊時，防禦提升3%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/p.jpg"
+        }
+       {
+            "name": "暗之法衣",
+            "description": " 不仔細研究還真不知道怎麼穿。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"法 | 僧 | 魔",
+            "studio":"生命+1% 被遠程攻擊時，防禦、魔防提升3%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/q.jpg"
+        }
+		        {
+            "name": "群星斗篷",
+            "description": " 星星眨著眼，月亮畫問號。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"法 | 僧 | 魔",
+            "studio":"魔防+2%，生命+1%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/r.jpg"
+        }
+        {
+            "name": "冰鋒戰甲",
+            "description": " 銳利的冬日鎧甲，夏天可以作為冰棒食用...... ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 槍 | 步 | 騎 ",
+            "studio":"生命、魔防+1%。主動進入戰鬥時，戰後對敵軍造成1次固定傷害，傷害值為英雄魔防的0.5倍。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/s.jpg"
+        }
+		        {
+            "name": "血紋魔鎧",
+            "description": " 血的紋飾中蘊藏生命的力量 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 槍 | 步 | 騎 ",
+            "studio":"	生命、防禦+1%，被近戰攻擊時，有10%的概率發動，本次戰鬥部隊遭受傷害降低30%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/t.jpg"
+        }
+        {
+            "name": "神諭者",
+            "description": " 以女神之名！女神化身專屬裝備。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 僧 | 法 ",
+            "studio":"生命+1%。在行動結束時，如果本回合未造成過傷害且沒有移動，則可再次行動。[觸發冷卻]再行動效果需要間隔4回合才可以再次觸發。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/u.jpg"
+        }
+        {
+            "name": "風之翎羽",
+            "description": " 自然之地，乃是妖精的領域。艾拉斯卓專屬裝備。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 弓 ",
+            "studio":"魔防+2%。自身處於“樹林”“山地”和“草地”上時，攻擊可以無視護衛，並在戰後恢復傷害數值20%的生命。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/v.jpg"
+        }
+        {
+            "name": "冥府渡神",
+            "description": " 駕馭死者之舟的神所佩戴的帽子。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"法 | 僧 | 魔",
+            "studio":"防禦+2%，行動結束時，有25%的概率使自身3格範圍內的1個敵軍“遭受所有傷害”提升15%，持續1回合",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/w.jpg"
+        }
+        {
+            "name": "攝魂法帽",
+            "description": " 你的靈魂歸我了。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"法 | 僧 | 魔",
+            "studio":"魔防+2%，行動結束時，25%的概率使自身3格範圍內的1個敵軍“無法使用主動技能”，持續1回合",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/x.jpg"
+        }
+        {
+            "name": "提爾之怒",
+            "description": " 據說戰神提爾曾因穿上它之後脫不下來而發怒了七天七夜…… ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"槍 | 步 | 騎 ",
+            "studio":"防禦+2%。行動結束時，如果未造成過傷害，則獲得效果技能傷害提升2%、反擊傷害提升2%，持續1回合。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/y.jpg"
+        }
+        {
+            "name": "大地之盔",
+            "description": " 我感覺我快要窒息了！ ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":"槍 | 步 | 騎 ",
+            "studio":"被攻擊時，魔防提升3%，部隊生命80%以上時，遭受物理傷害降低2%。",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/z.jpg"
+        }
+        {
+            "name": "王者之冠",
+            "description": " 奇幻的世界裡，王者可是個高危職業。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 飛 | 弓 | 水 | 刺",
+            "studio":"生命，魔防+1%，行動結束時，使相鄰的1名其他友軍“造成傷害”提升10%，持續1回合",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/aa.jpg"
+        }
+        {
+            "name": "尼約德的羽冠",
+            "description": " 夏之守護神的帽子，傳言戴上它會使人的面容變得俊美。 ",
+            "Rating": "SSR",
+            "episode": 148,
+            "categorie":" 飛 | 弓 | 水 | 刺",
+            "studio":"生命+2%，和生命數值低於自己的部隊戰鬥時，防禦和魔防提升3%",
+            "img": "https://raw.githubusercontent.com/yukileep/my-homework/master/images/ab.jpg"
+        }
